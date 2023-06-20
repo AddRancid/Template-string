@@ -1,9 +1,4 @@
-/* const a = 1;
-const b = 1;
+let a = prompt ("Primer numero", 1);
+let b = prompt ("Segundo numero",  2);
 
-const c = ++a;
-const d = b++; */
-
-let a = 2;
-let x = 1 + (a* = 2)
-
+alert (parseInt(a) + parseInt(b))
